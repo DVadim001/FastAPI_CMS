@@ -58,5 +58,5 @@ async def login_user(form_data: OAuth2PasswordRequestForm = Depends()):
 
 # Удаления пользователя
 @user_router.delete('/delete-user')
-async  def delete_user(user_id):
+async def delete_user(user_id):
     return delete_user_db(user_id)

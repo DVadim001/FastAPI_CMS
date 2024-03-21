@@ -21,3 +21,7 @@ C
 content/__init__.py,b\c\bc06643526b860997c394fc1f9f051789963d156
 J
 database/contentservice.py,a\8\a86a6ae8b2d08706e5926bfc4dc268ee49c89f17
+G
+database/siteservice.py,d\7\d7c8da63c7dc7fa1a20b731563a3dd93551222cd
+A
+sites/__init__.py,6\b\6bcc3833bc8c659a18ff734ed800b485655312df
