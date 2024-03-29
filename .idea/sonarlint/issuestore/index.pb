@@ -25,3 +25,8 @@ G
 database/siteservice.py,d\7\d7c8da63c7dc7fa1a20b731563a3dd93551222cd
 A
 sites/__init__.py,6\b\6bcc3833bc8c659a18ff734ed800b485655312df
+:
+
+Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
+B
+docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a

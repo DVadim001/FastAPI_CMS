@@ -16,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -38,7 +39,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/dvadi/PycharmProjects/FastAPI/SocialNetwork&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dvadi/PycharmProjects/FastAPI/CMS&quot;
   }
 }</component>
   <component name="RunManager">
