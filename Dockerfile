@@ -1,8 +1,8 @@
 FROM python:latest
 
-COPY . /cms
-
 WORKDIR . /cms
+
+COPY . /cms
 
 RUN pip install aiosqlite
 RUN pip install annotated-types
@@ -28,6 +28,5 @@ RUN pip install SQLAlchemy
 RUN pip install starlette
 RUN pip install typing_extensions
 RUN pip install uvicorn
-
 
 CMD ["uvicorn", "main:app", "--reload", "--host=0.0.0.0", "--port=2525"]
